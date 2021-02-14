@@ -85,7 +85,7 @@ section {
 }
 
 section .section-content {
-  margin-left: 200px;
+  margin-left: 130px;
 }
 
 section h2 {
@@ -158,7 +158,7 @@ footer {
   }
 
   section .section-content {
-    margin-left: 130px;
+    margin-left: 0;
   }
 
   section h2 {
