@@ -327,3 +327,6 @@ border-radius: 15px;
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+.sharebtn{
+		font-size: 26px;
+}
