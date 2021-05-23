@@ -1,0 +1,24 @@
+.mobileShow {display: none;}
+
+  /* Smartphone Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 306px)
+    and (max-device-width : 467px){ 
+      .mobileShow {display: inline;}
+  }
+  .pcShow1 {display: none;}
+
+  /* pc Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 468px)
+    and (max-device-width : 727px){ 
+      .pcShow1 {display: inline;}
+  }
+  .pcShow2 {display: none;}
+
+  /* pc Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 728px)
+    and (max-device-width : 5000px){ 
+      .pcShow2 {display: inline;}
+  }
